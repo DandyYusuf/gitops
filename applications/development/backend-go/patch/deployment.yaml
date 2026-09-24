@@ -10,7 +10,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: rezanaipospos/backend-go:17
+        image: rezanaipospos/jenkins-devops-course:latest
         resources:
           requests:
             cpu: 50m
